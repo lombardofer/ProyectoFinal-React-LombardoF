@@ -1,0 +1,19 @@
+.navbar {
+    margin-left: 150px;
+    margin-right: 150px;
+    gap: 100;
+    
+}
+
+button {
+    padding: 8px;
+    margin: 15px;
+    border-radius: 15px !important;
+    background-color: rgb(255, 212, 131);
+    
+}
+
+a {
+    color: black !important;
+    text-decoration: none !important;
+}
